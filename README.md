@@ -78,18 +78,6 @@ Me apasiona programar soluciones complejas y optimizar procesos. Actualmente bus
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlosarielcuadrascamacho-svg&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosarielcuadrascamacho-svg&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 <p align="center">
   ⭐ *Siempre buscando el siguiente nivel en lógica y arquitectura.*
 </p>
