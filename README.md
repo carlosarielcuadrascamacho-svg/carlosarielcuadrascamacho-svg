@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Black and White Modern Professional Sales and Marketing Profile LinkedIn Banner.png" alt="Carlos Ariel Cuadras Camacho Banner" />
+  <img src="./Banner.png" alt="Carlos Ariel Cuadras Camacho Banner" />
 </p>
 
 
