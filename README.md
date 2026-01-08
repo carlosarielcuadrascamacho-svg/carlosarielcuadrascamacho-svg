@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Carlos%20Ariel%20Cuadras%20Camacho&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+  <img src="./Black and White Modern Professional Sales and Marketing Profile LinkedIn Banner.png" alt="Carlos Ariel Cuadras Camacho Banner" />
 </p>
+
 
 <h3 align="center">Ingeniería en Sistemas Computacionales · Full Stack · IoT · Bases de Datos</h3>
 
