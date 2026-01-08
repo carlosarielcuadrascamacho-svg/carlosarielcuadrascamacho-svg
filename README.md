@@ -40,12 +40,10 @@ Me apasiona programar soluciones complejas y optimizar procesos. Actualmente bus
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle_21c-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
 ### DevOps & IoT
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino/ESP32-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
@@ -62,13 +60,6 @@ Me apasiona programar soluciones complejas y optimizar procesos. Actualmente bus
 - **Logros:** - Desarrollo de API RESTful para gestión de rutas y usuarios.
   - Implementación de algoritmos de simulación de rutas para pruebas.
   - Documentación técnica bajo estándar IEEE-830.
-
----
-
-### 🔹 Hello Git & GitHub
-*Repositorio educativo y de referencia técnica.*
-- Profundización en flujo de trabajo profesional: ramas, tags, reset y resolución de conflictos.
-- Enfocado en buenas prácticas de versionado.
 
 ---
 
