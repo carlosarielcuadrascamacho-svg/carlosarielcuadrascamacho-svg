@@ -53,23 +53,82 @@ Me apasiona programar soluciones complejas y optimizar procesos. Actualmente bus
 
 ## 🚀 Proyectos Destacados
 
-### 🚍 TecBus (Proyecto Innovatec)
+### 🚍 TecBus
 *Sistema integral de rastreo de transporte escolar en tiempo real.*
-- **Rol:** Líder Técnico & Backend Developer.
-- **Stack:** Node.js, Express, MongoDB, Vanilla JS.
-- **Hardware:** Integración con ESP32 para envío de coordenadas GPS.
-- **Logros:** - Desarrollo de API RESTful para gestión de rutas y usuarios.
-  - Implementación de algoritmos de simulación de rutas para pruebas.
-  - Documentación técnica bajo estándar IEEE-830.
+
+- **Rol:** Líder Técnico & Backend Developer  
+- **Stack:** Node.js, Express, MongoDB, Vanilla JS  
+- **IoT:** ESP32 + GPS  
+
+**Aportes clave:**
+- Desarrollo de **API RESTful** para gestión de usuarios, rutas y unidades.
+- Integración de datos IoT enviados desde ESP32 hacia el backend.
+- Implementación de **simulación de rutas** para pruebas sin hardware físico.
+- Elaboración de **documentación técnica bajo estándar IEEE-830**.
+
+https://tecbus-pcfl.onrender.com/
 
 ---
 
-### 🔹 Sistemas de Simulación (C#)
-- Implementación de algoritmos de planificación (Round Robin).
-- Uso avanzado de Windows Forms, eventos y timers para simulación de procesos.
+### 🏫 Sistema de Gestión para Kinder Local
+*Proyecto real desarrollado para una institución educativa.*
+
+- **Tipo:** Sistema administrativo
+- **Enfoque:** Digitalización de procesos internos
+
+**Características principales:**
+- Registro y gestión de información básica de alumnos.
+- Organización de datos administrativos para facilitar el control interno.
+- Enfoque en **usabilidad, simplicidad y solución de una necesidad real**.
+
+> Proyecto orientado a **impacto social y aplicación práctica del software**.
+
+---
+
+### 🎯 Torreta Inteligente con Detección Facial (IA + IoT)
+*Sistema automatizado de detección, seguimiento y acción mediante visión artificial.*
+
+- **Software:** C#, Emgu CV (OpenCV)
+- **Hardware:** Arduino, motores paso a paso, relé, cámara
+- **Comunicación:** Serial (PC ↔ Arduino)
+
+**Descripción del sistema:**
+- Detección facial en tiempo real mediante **visión artificial**.
+- Cálculo de coordenadas del rostro detectado.
+- Envío de datos por **comunicación serial** hacia Arduino.
+- Movimiento automático de la torreta usando **motores paso a paso**.
+- Activación de un mecanismo de disparo controlado por **relé**.
+
+**Aportes técnicos:**
+- Implementación de detección facial con **Emgu CV**.
+- Lógica de seguimiento del objetivo basada en coordenadas X/Y.
+- Sincronización software–hardware en tiempo real.
+- Visualización dinámica de datos (coordenadas y estado serial).
+
+> Proyecto enfocado en **IA aplicada, robótica, control automático y sistemas embebidos**.
+
+---
+
+### 🧾 Sistema Punto de Venta (POS) — C# & SQL Server
+*Sistema completo de ventas desarrollado como proyecto académico con potencial comercial.*
+
+- **Tecnologías:** C#, Windows Forms, SQL Server
+- **Tipo:** Aplicación de escritorio
+
+**Características principales:**
+- Sistema de **inicio de sesión y control de usuarios**.
+- Gestión de productos, precios y stock.
+- Registro de ventas con persistencia en base de datos.
+- Interfaz gráfica clara, ordenada y orientada al usuario.
+
+**Reconocimiento:**
+- Proyecto destacado por el docente por su **calidad visual, funcionalidad y potencial para comercialización**.
+
+> Proyecto enfocado en **lógica de negocio, bases de datos y desarrollo de software real**.
 
 ---
 
 <p align="center">
-  ⭐ *Siempre buscando el siguiente nivel en lógica y arquitectura.*
+⭐ <i>Enfocado en lógica, arquitectura y soluciones reales.</i>
 </p>
+
