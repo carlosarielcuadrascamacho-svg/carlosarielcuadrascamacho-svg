@@ -1,81 +1,95 @@
-# 👋 Hola, soy Carlos Ariel Cuadras Camacho
-### Estudiante de Ingeniería en Sistemas | Desarrollador en formación 🚀
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Carlos%20Ariel%20Cuadras%20Camacho&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Bienvenido%20a%20mi%20GitHub&fontSize=30&fontColor=ffffff)
+<h3 align="center">Ingeniería en Sistemas Computacionales · Full Stack · IoT · Bases de Datos</h3>
 
----
-
-## 🧠 Sobre mí
-
-Soy estudiante de **Ingeniería en Sistemas Computacionales (6º semestre)** en el  
-**TECNM Campus Guasave** 🇲🇽.
-
-Me gusta aprender **cómo funcionan realmente las cosas**, no solo que “funcionen”.
-Disfruto trabajar con **bases de datos, backend, lógica y automatización**, y actualmente
-estoy construyendo proyectos para fortalecer mi perfil profesional y conseguir mi
-primer empleo en el área de desarrollo de software.
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlos-ariel-cuadras" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Carlos_Cuadras-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/carlosarielcuadrascamacho-svg" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-carlosarielcuadrascamacho--svg-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tecnologías que uso
+## 👨‍💻 Sobre mí
 
-### Lenguajes
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+🎓 Estudiante de **Ingeniería en Sistemas Computacionales (8º semestre)** 🏫 **TECNM Campus Guasave**
 
-### Bases de datos
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_21c-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+Más que "picar código", me enfoco en la **arquitectura de software y la lógica de negocio**. Tengo experiencia liderando equipos técnicos y desarrollando soluciones integrales que conectan hardware (IoT) con aplicaciones web modernas.
 
-### Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+Me apasiona programar soluciones complejas y optimizar procesos. Actualmente busco oportunidades profesionales donde pueda aplicar mi experiencia en **Backend, integración de APIs y Bases de Datos NoSQL/SQL**.
 
 ---
 
-## 📌 Proyectos destacados
+## 🛠️ Tecnologías y Herramientas
 
-### 🔹 Hello Git
-Repositorio donde practico **Git y GitHub desde cero**, entendiendo realmente:
-- commits
-- ramas
-- HEAD
-- reset, checkout, tags
+### Backend & Web
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-👉 *Proyecto educativo y de práctica personal*
+### Bases de Datos
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle_21c-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
 
----
-
-### 🔹 Sistemas con C# y Windows Forms
-- Simulaciones de procesos (Round Robin)
-- Animaciones gráficas
-- Conexión a bases de datos
-- Visión artificial con Emgu CV
-
----
-
-### 🔹 Bases de datos
-- Consultas SQL (SQL Server & Oracle)
-- Subconsultas
-- Modelado y lógica de negocio
-- Ejercicios tipo examen
+### DevOps & IoT
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino/ESP32-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+</p>
 
 ---
 
-## 📈 Estadísticas
+## 🚀 Proyectos Destacados
 
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight)
+### 🚍 TecBus (Proyecto Innovatec)
+*Sistema integral de rastreo de transporte escolar en tiempo real.*
+- **Rol:** Líder Técnico & Backend Developer.
+- **Stack:** Node.js, Express, MongoDB, Vanilla JS.
+- **Hardware:** Integración con ESP32 para envío de coordenadas GPS.
+- **Logros:** - Desarrollo de API RESTful para gestión de rutas y usuarios.
+  - Implementación de algoritmos de simulación de rutas para pruebas.
+  - Documentación técnica bajo estándar IEEE-830.
 
 ---
 
-## 📬 Contáctame
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_Cuadras-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-CarlosCuadras-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+### 🔹 Hello Git & GitHub
+*Repositorio educativo y de referencia técnica.*
+- Profundización en flujo de trabajo profesional: ramas, tags, reset y resolución de conflictos.
+- Enfocado en buenas prácticas de versionado.
 
 ---
 
-⭐ *Gracias por visitar mi perfil. Estoy en constante aprendizaje.*
+### 🔹 Sistemas de Simulación (C#)
+- Implementación de algoritmos de planificación (Round Robin).
+- Uso avanzado de Windows Forms, eventos y timers para simulación de procesos.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carlosarielcuadrascamacho-svg&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosarielcuadrascamacho-svg&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  ⭐ *Siempre buscando el siguiente nivel en lógica y arquitectura.*
+</p>
